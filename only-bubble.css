@@ -1,0 +1,60 @@
+* {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+body > *,
+.LGAQQ > *,
+.jHiGQZ > *,
+::-webkit-scrollbar {
+  display: none;
+}
+
+#root,
+.jHiGQZ,
+.qLpxn {
+  display: block;
+}
+
+button {
+  display: none !important;
+}
+
+.jHiGQZ {
+  width: 100%;
+}
+.qLpxn {
+  max-width: initial;
+  width: 100%;
+}
+
+/* font size*/
+.MuiTypography-subtitle2,
+.MuiTypography-body2,
+.MuiTypography-body1 {
+  font-size: 24px;
+}
+
+/* icon size */
+.jVewpu {
+  width: 240px;
+  height: auto;
+}
+/* dice size */
+.sc-fVnRjz {
+  width: 96px;
+  height: auto;
+}
+/*body*/
+.Qakxs {
+  height: 120px;
+}
+
+.ORzPP,
+.Qakxs {
+  padding: 0px 24px !important;
+}
